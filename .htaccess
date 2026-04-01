@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteBase /ahmad_xii/
+
+# HOME
+RewriteRule ^$ index.php [L]
+RewriteRule ^index$ index.php [L]
+
+# ROUTING
+RewriteRule ^guru$ user/guru.php [L]
+RewriteRule ^berita$ user/berita.php [L]
+RewriteRule ^galeri$ user/galeri.php [L]
+RewriteRule ^profil$ user/profil.php [L]
+RewriteRule ^kontak$ user/kontak.php [L]
