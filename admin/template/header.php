@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Admin Panel | Website Sekolah</title>
+    <title>Admin Panel | Website SMK GANESHA TAMA BOYOLALI</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- AdminLTE CSS -->

@@ -1,6 +1,6 @@
 <!-- Footer -->
     <footer class="app-footer">
-        <strong>&copy; 2025 Website Profil Sekolah</strong>
+        <strong>&copy; 2026 Website Profil Sekolah</strong>
     </footer>
 </div>
 <!-- /.app-wrapper -->
